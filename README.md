@@ -65,3 +65,31 @@ All images are sparingly from the Quick Starter Ink Ribbon Demo, and the rest ar
 Constructive Feedback welcome.
 Toña G-B 
 Discord: witchlightcrafts
+
+---
+
+Images show a makeshift tutorial:<img width="1920" height="1080" alt="Screenshot (575)" src="https://github.com/user-attachments/assets/e89608dc-4259-4d01-a7a4-aac2b29b002e" />
+<img width="1920" height="1080" alt="Screenshot (576)" src="https://github.com/user-attachments/assets/cef90176-c176-49d7-92da-1a387f28f089" />
+<img width="1920" height="1080" alt="Screenshot (577)" src="https://github.com/user-attachments/assets/fe1267e4-48e7-4842-9c64-ec7d72a13084" />
+<img width="1920" height="1080" alt="Screenshot (578)" src="https://github.com/user-attachments/assets/efe31dd0-0269-4350-bca9-ada7afa7569a" />
+<img width="1920" height="1080" alt="Screenshot (579)" src="https://github.com/user-attachments/assets/3f7df79c-37fb-4129-95d6-77d2403489d8" />
+<img width="1920" height="1080" alt="Screenshot (580)" src="https://github.com/user-attachments/assets/9e4524ab-4bd5-4933-8fd1-f8e223a75362" />
+<img width="1920" height="1080" alt="Screenshot (556)" src="https://github.com/user-attachments/assets/af47981e-e565-471e-bdf9-f144c1c667eb" />
+<img width="1920" height="1080" alt="Screenshot (557)" src="https://github.com/user-attachments/assets/4b143318-d1c9-45a0-b39c-6ae708715334" />
+<img width="1920" height="1080" alt="Screenshot (558)" src="https://github.com/user-attachments/assets/ed3f38af-6152-4386-a659-1d3b6a43307d" />
+<img width="1920" height="1080" alt="Screenshot (559)" src="https://github.com/user-attachments/assets/e6cc45a8-7060-4289-9a55-98236329fd10" />
+<img width="1920" height="1080" alt="Screenshot (561)" src="https://github.com/user-attachments/assets/4358db7d-97d4-4178-b424-fe157fef9de1" />
+<img width="1920" height="1080" alt="Screenshot (562)" src="https://github.com/user-attachments/assets/be34e9bb-94ab-4f3f-80ad-9fb85ec4ad20" />
+<img width="1920" height="1080" alt="Screenshot (563)" src="https://github.com/user-attachments/assets/ee0cc3c8-37ab-4ef7-ad23-41765aa2baaf" />
+<img width="1920" height="1080" alt="Screenshot (564)" src="https://github.com/user-attachments/assets/f6278881-c130-4ac4-89d4-6be6687484a6" />
+<img width="1920" height="1080" alt="Screenshot (565)" src="https://github.com/user-attachments/assets/8d0243b4-9f1b-49e7-b4ee-099321d030cc" />
+<img width="1920" height="1080" alt="Screenshot (566)" src="https://github.com/user-attachments/assets/a47d64e2-4f5b-4aa4-a54b-32ad857605bf" />
+<img width="1920" height="1080" alt="Screenshot (567)" src="https://github.com/user-attachments/assets/b115a776-1e0a-4ef2-a562-f3153cb42e54" />
+<img width="1920" height="1080" alt="Screenshot (568)" src="https://github.com/user-attachments/assets/a79d2ae7-f549-404d-8bf5-be6b8836488a" />
+<img width="1920" height="1080" alt="Screenshot (569)" src="https://github.com/user-attachments/assets/3faaf6a4-a359-492a-81fe-ae653fa2bb4c" />
+<img width="1920" height="1080" alt="Screenshot (570)" src="https://github.com/user-attachments/assets/a8eb3ef0-1d18-4b5f-8b98-09a1a1423c55" />
+<img width="1920" height="1080" alt="Screenshot (571)" src="https://github.com/user-attachments/assets/daa30469-923a-406b-9c22-1ac44711dd5e" />
+<img width="1920" height="1080" alt="Screenshot (572)" src="https://github.com/user-attachments/assets/f76b3ee1-4cda-40fb-a47f-0521ac622fc0" />
+<img width="1920" height="1080" alt="Screenshot (573)" src="https://github.com/user-attachments/assets/8d8397ad-2655-46b5-b53a-2b5edf4ee688" />
+<img width="1920" height="1080" alt="Screenshot (574)" src="https://github.com/user-attachments/assets/e6e35fac-46ea-48dd-9d1a-ac0d293b1a58" />
+
