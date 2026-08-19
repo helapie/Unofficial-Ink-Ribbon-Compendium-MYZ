@@ -1,7 +1,7 @@
 Update: 19/8/2026:
 Hiya, I've been working on testing what I've done, and it works, what helped was remembering to add the assets data folder as well as the other things, so for example I made a world just to later add the Compendium, but adding only the 'packs folder' wasn't enough, but then I added the contents from the 'data' folder (replacing the original) as well. And everything appeared!
 
-The world.json I think just renames the world so it isn't necessary to copy that tbh, except if you wanted to use it as a placeholder so you know it's not been used for a new game yet.
+The world.json I think just renames the world so it isn't necessary to copy that tbh, except if you wanted to use it as a placeholder so you know it's not been used for a new game yet and cover image.
 
 ---
 
@@ -11,12 +11,12 @@ Download these contents from this Github.. Where to save:
 
 Typically you find the FoundryVTT worlds on your local storage in, the unzipped content should be put here:
 
-Local Disk C, Users, select (name you use), app data, local, foundryvtt, data, worlds, select (world name),
+Local Disk C > Users > select (name you use) > appdata > local > foundryvtt > data > worlds > select (world name) >
 
 Replace what you want with the updated content in the subfolders in the 'data' folder and make sure you keep your own original 'users' folder.
 
 Add the 'packs folder',
-and all the images and pdfs which do not go into any sub folders.
+and all the images, world cover image, and pdfs which do not go into any sub folders.
 
 Open Foundry VTT. and open that world. 
 All the things you want should be there, all the items, actors, etc. maps, journals, scenes, rollable tables.
