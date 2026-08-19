@@ -1,0 +1,108 @@
+{
+  "title": "Dead on Arrival Demo - Ink Ribbon - MYZ",
+  "system": "mutant-year-zero",
+  "id": "ink-ribbon-myz",
+  "coreVersion": "14.366",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "systemVersion": "14.0.3",
+  "lastPlayed": "Wed Aug 19 2026 12:44:09 GMT+0200 (Central European Summer Time)",
+  "packs": [
+    {
+      "label": "Compendium",
+      "type": "Item",
+      "name": "compendium",
+      "path": "packs/compendium",
+      "system": "mutant-year-zero",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {},
+      "package": "world",
+      "id": "world.compendium",
+      "packageType": "world",
+      "packageName": "ink-ribbon-myz",
+      "index": [],
+      "folders": []
+    },
+    {
+      "label": "Rollable Tables",
+      "type": "RollTable",
+      "name": "rollable-tables",
+      "path": "packs/rollable-tables",
+      "system": "mutant-year-zero",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {},
+      "package": "world",
+      "id": "world.rollable-tables",
+      "packageType": "world",
+      "packageName": "ink-ribbon-myz",
+      "index": [],
+      "folders": []
+    },
+    {
+      "label": "Character Sheets",
+      "type": "Actor",
+      "name": "character-sheets",
+      "path": "packs/character-sheets",
+      "system": "mutant-year-zero",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {},
+      "package": "world",
+      "id": "world.character-sheets",
+      "packageType": "world",
+      "packageName": "ink-ribbon-myz",
+      "index": [],
+      "folders": []
+    },
+    {
+      "label": "Journal Sheets",
+      "type": "JournalEntry",
+      "name": "journal-sheets",
+      "path": "packs/journal-sheets",
+      "system": "mutant-year-zero",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {},
+      "package": "world",
+      "id": "world.journal-sheets",
+      "packageType": "world",
+      "packageName": "ink-ribbon-myz",
+      "index": [],
+      "folders": []
+    },
+    {
+      "label": "Map Scenes",
+      "type": "Scene",
+      "name": "map-scenes",
+      "path": "packs/map-scenes",
+      "system": "mutant-year-zero",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {},
+      "package": "world",
+      "id": "world.map-scenes",
+      "packageType": "world",
+      "packageName": "ink-ribbon-myz",
+      "index": [],
+      "folders": []
+    }
+  ],
+  "playtime": 54807,
+  "description": "<p>Using the Mutant Year Zero to makeshift create the Ink Ribbon system and the demo scenario to run Dead on Arrival created by Old Oak Games.</p><p>Fan made. Unnofficial.<br>Human Made.</p>",
+  "background": "worlds/ink-ribbon-myz/DoA%201%20small.PNG",
+  "flags": {}
+}
