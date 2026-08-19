@@ -1,3 +1,10 @@
+Update: 19/8/2026:
+Hiya, I've been working on testing what I've done, and it works, what helped was remembering to add the assets data folder as well as the other things, so for example I made a world just to later add the Compendium, but adding only the 'packs folder' wasn't enough, but then I added the contents from the 'data' folder (replacing the original) as well. And everything appeared!
+
+The world.json I think just renames the world so it isn't necessary to copy that tbh, except if you wanted to use it as a placeholder so you know it's not been used for a new game yet.
+
+---
+
 Hello!
 Here you can find the unofficial game (Mutant Year Zero format) to run Dead on Arrival for the Ink Ribbon system made by Old Oak Games, 
 they have a backer kit, at: https://www.backerkit.com/c/projects/old-oak-games/ink-ribbon-a-survival-horror-tabletop-rpg/pre-launch
