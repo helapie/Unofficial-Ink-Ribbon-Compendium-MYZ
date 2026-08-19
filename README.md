@@ -5,7 +5,7 @@ The world.json I think just renames the world so it isn't necessary to copy that
 
 ---
 
-Make a world in FoundryVTT, select the Mutant Year Zero system. Then close FoundryVTT.
+Make a NEW world in FoundryVTT, select the Mutant Year Zero system. Then close FoundryVTT.
 
 Download these contents from this Github.. Where to save:
 
@@ -13,7 +13,9 @@ Typically you find the FoundryVTT worlds on your local storage in, the unzipped 
 
 Local Disk C > Users > select (name you use) > appdata > local > foundryvtt > data > worlds > select (world name) >
 
+   (Reminder the following instructions are about adding into NEW worlds that you haven't already put work in.)
 Replace what you want with the updated content in the subfolders in the 'data' folder and make sure you keep your own original 'users' folder.
+      (If you're wanting to add to an already pre-existing World you worked hard on, then never replace existing folders. Just add the content individually, so you keep everything.)
 
 Add the 'packs folder',
 and all the images, world cover image, and pdfs which do not go into any sub folders.
