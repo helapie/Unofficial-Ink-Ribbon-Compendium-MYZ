@@ -67,29 +67,21 @@ Toña G-B
 Discord: witchlightcrafts
 
 ---
-
-Images show a makeshift tutorial:<img width="1920" height="1080" alt="Screenshot (575)" src="https://github.com/user-attachments/assets/e89608dc-4259-4d01-a7a4-aac2b29b002e" />
-<img width="1920" height="1080" alt="Screenshot (576)" src="https://github.com/user-attachments/assets/cef90176-c176-49d7-92da-1a387f28f089" />
-<img width="1920" height="1080" alt="Screenshot (577)" src="https://github.com/user-attachments/assets/fe1267e4-48e7-4842-9c64-ec7d72a13084" />
-<img width="1920" height="1080" alt="Screenshot (578)" src="https://github.com/user-attachments/assets/efe31dd0-0269-4350-bca9-ada7afa7569a" />
-<img width="1920" height="1080" alt="Screenshot (579)" src="https://github.com/user-attachments/assets/3f7df79c-37fb-4129-95d6-77d2403489d8" />
-<img width="1920" height="1080" alt="Screenshot (580)" src="https://github.com/user-attachments/assets/9e4524ab-4bd5-4933-8fd1-f8e223a75362" />
-<img width="1920" height="1080" alt="Screenshot (556)" src="https://github.com/user-attachments/assets/af47981e-e565-471e-bdf9-f144c1c667eb" />
-<img width="1920" height="1080" alt="Screenshot (557)" src="https://github.com/user-attachments/assets/4b143318-d1c9-45a0-b39c-6ae708715334" />
-<img width="1920" height="1080" alt="Screenshot (558)" src="https://github.com/user-attachments/assets/ed3f38af-6152-4386-a659-1d3b6a43307d" />
-<img width="1920" height="1080" alt="Screenshot (559)" src="https://github.com/user-attachments/assets/e6cc45a8-7060-4289-9a55-98236329fd10" />
-<img width="1920" height="1080" alt="Screenshot (561)" src="https://github.com/user-attachments/assets/4358db7d-97d4-4178-b424-fe157fef9de1" />
-<img width="1920" height="1080" alt="Screenshot (562)" src="https://github.com/user-attachments/assets/be34e9bb-94ab-4f3f-80ad-9fb85ec4ad20" />
-<img width="1920" height="1080" alt="Screenshot (563)" src="https://github.com/user-attachments/assets/ee0cc3c8-37ab-4ef7-ad23-41765aa2baaf" />
-<img width="1920" height="1080" alt="Screenshot (564)" src="https://github.com/user-attachments/assets/f6278881-c130-4ac4-89d4-6be6687484a6" />
-<img width="1920" height="1080" alt="Screenshot (565)" src="https://github.com/user-attachments/assets/8d0243b4-9f1b-49e7-b4ee-099321d030cc" />
-<img width="1920" height="1080" alt="Screenshot (566)" src="https://github.com/user-attachments/assets/a47d64e2-4f5b-4aa4-a54b-32ad857605bf" />
-<img width="1920" height="1080" alt="Screenshot (567)" src="https://github.com/user-attachments/assets/b115a776-1e0a-4ef2-a562-f3153cb42e54" />
-<img width="1920" height="1080" alt="Screenshot (568)" src="https://github.com/user-attachments/assets/a79d2ae7-f549-404d-8bf5-be6b8836488a" />
-<img width="1920" height="1080" alt="Screenshot (569)" src="https://github.com/user-attachments/assets/3faaf6a4-a359-492a-81fe-ae653fa2bb4c" />
-<img width="1920" height="1080" alt="Screenshot (570)" src="https://github.com/user-attachments/assets/a8eb3ef0-1d18-4b5f-8b98-09a1a1423c55" />
-<img width="1920" height="1080" alt="Screenshot (571)" src="https://github.com/user-attachments/assets/daa30469-923a-406b-9c22-1ac44711dd5e" />
-<img width="1920" height="1080" alt="Screenshot (572)" src="https://github.com/user-attachments/assets/f76b3ee1-4cda-40fb-a47f-0521ac622fc0" />
-<img width="1920" height="1080" alt="Screenshot (573)" src="https://github.com/user-attachments/assets/8d8397ad-2655-46b5-b53a-2b5edf4ee688" />
-<img width="1920" height="1080" alt="Screenshot (574)" src="https://github.com/user-attachments/assets/e6e35fac-46ea-48dd-9d1a-ac0d293b1a58" />
-
+<img width="1920" height="1080" alt="1 Make Foundry World" src="https://github.com/user-attachments/assets/8a259643-cba1-4bc6-b6c5-643a297c43a4" />
+<img width="1920" height="1080" alt="2 Download Github zip" src="https://github.com/user-attachments/assets/57b3bf8b-773c-4c02-80c3-9f64fdeddb64" />
+<img width="1920" height="1080" alt="3 Choose where to save Github zip" src="https://github.com/user-attachments/assets/a073dcd0-354e-462b-a105-73c5215c5dd4" />
+<img width="1920" height="1080" alt="4  Unzip the folders" src="https://github.com/user-attachments/assets/682d5c06-cb3f-455c-b43e-9986044623e0" />
+<img width="1920" height="1080" alt="5  Open FoundryVTT world location new window" src="https://github.com/user-attachments/assets/1ba224f0-e995-4049-910c-30d087281aa4" />
+<img width="1920" height="1080" alt="6 Copy and replace data subfolders except users" src="https://github.com/user-attachments/assets/cd93ca6a-927d-4e5c-8136-d5ab7e3e99a9" />
+<img width="1920" height="1080" alt="7 add assets folder (2)" src="https://github.com/user-attachments/assets/14552ea1-ad3b-458a-b8b0-6ef276ae5417" />
+<img width="1920" height="1080" alt="8 add packs folder" src="https://github.com/user-attachments/assets/08b868f0-58a8-48f6-9a50-d809e9521191" />
+<img width="1920" height="1080" alt="9 Reopen Foundry World" src="https://github.com/user-attachments/assets/b8ede605-9cfc-4c70-8ae2-b0ddb82d95dd" />
+<img width="1920" height="1080" alt="9 reopen Foundryvtt world core skills" src="https://github.com/user-attachments/assets/06309806-d160-43d8-9d1e-83f35b3bc043" />
+<img width="1920" height="1080" alt="9 reopen Foundry Pregen Nobody view" src="https://github.com/user-attachments/assets/934a9a16-28c4-4951-bfd7-08b2508aa18c" />
+<img width="1920" height="1080" alt="9 reopen foundry Nobody journal pdf view" src="https://github.com/user-attachments/assets/b95d9207-6cf1-4d21-9a5d-5dc9646e8068" />
+<img width="1920" height="1080" alt="9 reopen pregen journal sheet editable view" src="https://github.com/user-attachments/assets/922ee4ac-fb40-42ce-9b49-b043c8d404ac" />
+<img width="1920" height="1080" alt="9 reopen Foundry Rollable tables Panic view" src="https://github.com/user-attachments/assets/58df20b8-efc8-41a5-a728-77d47220b30b" />
+<img width="1920" height="1080" alt="9 reopen Foundry weapons view" src="https://github.com/user-attachments/assets/1166cad9-4671-4ac5-8c06-653c73ba71cb" />
+<img width="1920" height="1080" alt="9 reopen Foundry map scenes view" src="https://github.com/user-attachments/assets/9bce9433-b7ba-4fc4-9145-f6226efd1e96" />
+<img width="1920" height="1080" alt="9 reopen foundry cross references view" src="https://github.com/user-attachments/assets/75a1413d-cf33-4ef6-a766-56219bc073bd" />
+<img width="1920" height="1080" alt="9 reopen foundry part 2 cross reference view" src="https://github.com/user-attachments/assets/716310b2-c7d4-4037-ba2d-e104d463b8f7" />
