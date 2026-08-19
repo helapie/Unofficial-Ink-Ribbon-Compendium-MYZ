@@ -18,14 +18,21 @@ The only thing I couldn't change is the attribute 'Empathy' to be renamed to 'He
 Most rolls are expected to be manual rather than automatic, the information is still there.
 There are the traditional character sheets in Actors, but also Ink Ribbon sheets made in Journal.
 
-FoundryVTT 14.
+The maps should show map pins that hopefully are viewed for the GM only to remind what doors and windows are locked, broken, button locations, key locations inside the building..
+
+There should be light on the maps for the explosion outside.
+
+Walls, doors and windows should be on the maps.
+
+FoundryVTT Version: 14.
 
 I use a lot of modules, and I recommend:
-Dice So Nice,
+Dice So Nice, (I have recently found but tried the additional module that can customise dice faces),
 Dice Tray and edit to have only the d6 as an option.
 Blood Splatters,
 Patrol, which works nicely to have the wandering enemies move about.
 Boss Health Bar, for the 'Health' of Nemesis enemy.
+Phil's Day and Night, I like changing the date to 1995 and ease of changing the weather effects.
 
 Human Made. 
 All images are sparingly from the Quick Starter Ink Ribbon Demo, and the rest are all Copyright Free images, and no AI.
