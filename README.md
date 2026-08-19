@@ -5,6 +5,24 @@ The world.json I think just renames the world so it isn't necessary to copy that
 
 ---
 
+Make a world in FoundryVTT, select the Mutant Year Zero system. Then close FoundryVTT.
+
+Download these contents from this Github.. Where to save:
+
+Typically you find the FoundryVTT worlds on your local storage in, the unzipped content should be put here:
+
+Local Disk C, Users, select (name you use), app data, local, foundryvtt, data, worlds, select (world name),
+
+Replace what you want with the updated content in the subfolders in the 'data' folder and make sure you keep your own original 'users' folder.
+
+Add the 'packs folder',
+and all the images and pdfs which do not go into any sub folders.
+
+Open Foundry VTT. and open that world. 
+All the things you want should be there, all the items, actors, etc. maps, journals, scenes, rollable tables.
+
+---
+
 Hello!
 Here you can find the unofficial game (Mutant Year Zero format) to run Dead on Arrival for the Ink Ribbon system made by Old Oak Games, 
 they have a backer kit, at: https://www.backerkit.com/c/projects/old-oak-games/ink-ribbon-a-survival-horror-tabletop-rpg/pre-launch
